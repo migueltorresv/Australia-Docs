@@ -1,6 +1,7 @@
 var hierarchy =
 [
     [ "MonoBehaviour", null, [
+      [ "ClientAnimator", "class_client_animator.html", null ],
       [ "DebugPokeButton", "class_debug_poke_button.html", null ],
       [ "DebugText", "class_debug_text.html", null ],
       [ "DelayTime", "class_delay_time.html", null ],

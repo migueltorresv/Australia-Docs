@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['waypointconfiguration_2ecs_0',['WayPointConfiguration.cs',['../_way_point_configuration_8cs.html',1,'']]]
+  ['scenemanagergame_2ecs_0',['SceneManagerGame.cs',['../_scene_manager_game_8cs.html',1,'']]]
 ];

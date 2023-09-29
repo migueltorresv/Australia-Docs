@@ -44,7 +44,7 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"_debug_poke_button_8cs.html"
+"_client_animator_8cs.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

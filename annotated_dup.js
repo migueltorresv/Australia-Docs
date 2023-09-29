@@ -1,5 +1,6 @@
 var annotated_dup =
 [
+    [ "ClientAnimator", "class_client_animator.html", "class_client_animator" ],
     [ "DebugPokeButton", "class_debug_poke_button.html", "class_debug_poke_button" ],
     [ "DebugText", "class_debug_text.html", "class_debug_text" ],
     [ "DelayTime", "class_delay_time.html", "class_delay_time" ],
